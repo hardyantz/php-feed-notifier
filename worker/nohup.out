@@ -1,0 +1,460 @@
+
+Warning: file_get_contents(LATEST_PATH): failed to open stream: No such file or directory in /data/detikcom/worker/worker.php on line 65
+ => http://news.detik.com/read/2013/02/06/185645/2163166/10/rapat-dengan-kpk-fpks-pertanyakan-kunjungan-dubes-as = Rapat dengan KPK, FPKS Pertanyakan Kunjungan Dubes AS = 
+
+ => http://news.detik.com/read/2013/02/06/185033/2163152/10/pkpi-lolos-hary-tanoe-belum-ada-kontak-dengan-bang-yos = PKPI Lolos, Hary Tanoe Belum Ada Kontak dengan Bang Yos = 
+
+ => http://news.detik.com/read/2013/02/06/185458/2163164/10/terbukti-korupsi-proyek-shs-jacob-dihukum-9-tahun-dan-kosasih-4-tahun = Terbukti Korupsi Proyek SHS, Jacob Dihukum 9 Tahun dan Kosasih 4 Tahun = 
+
+ => http://news.detik.com/read/2013/02/06/185054/2163153/10/ditinggal-nining-1680-tenaga-ahli-aspri-dpr-ri-belum-gajian = Ditinggal Nining, 1.680 Tenaga Ahli & Aspri DPR RI Belum Gajian = 
+
+ => http://news.detik.com/read/2013/02/06/184946/2163149/10/api-muncul-lagi-di-lantai-3-glodok-petugas-damkar-kembali-beraksi = Api Muncul Lagi di Lantai 3 Glodok, Petugas Damkar Kembali Beraksi = 
+
+ => http://news.detik.com/read/2013/02/06/184910/2163150/10/bnpb-hujan-deras-timbulkan-banyak-genangan-tapi-sungai-masih-aman = BNPB: Hujan Deras Timbulkan Banyak Genangan, Tapi Sungai Masih Aman = 
+
+ => http://news.detik.com/read/2013/02/06/184814/2163146/10/api-di-bengkel-cafe-padam-api-berasal-dari-pengelasan = Api di Bengkel Cafe Padam, Api Berasal dari Pengelasan = 
+
+ => http://news.detik.com/read/2013/02/06/183737/2163140/10/polisi-tak-jerat-pemilik-ghat-chatinone-di-baturaden-banyumas = Polisi Tak Jerat Pemilik Ghat 'Chatinone' di Baturaden Banyumas = 
+
+ => http://news.detik.com/read/2013/02/06/184038/2163142/10/bawa-2-kg-sabu-wn-turki-divonis-17-tahun-penjara = Bawa 2 Kg Sabu, WN Turki Divonis 17 Tahun Penjara = 
+
+ => http://news.detik.com/read/2013/02/06/184102/2163141/10/survei-pdb-rhoma-irama-tenar-sebagai-capres = Survei PDB: Rhoma Irama Tenar Sebagai Capres = 
+
+ => http://news.detik.com/read/2013/02/06/190317/2163171/10/disatroni-perampok-pegadaian-samarinda-rugi-rp-67-m = Disatroni Perampok, Pegadaian Samarinda Rugi Rp 6,7 M = 
+
+ => http://news.detik.com/read/2013/02/06/190101/2163168/10/pemprov-dki-luncurkan-transportasi-air-di-jakut-saat-valentine-day = Pemprov DKI Luncurkan Transportasi Air di Jakut Saat Valentine Day = 
+
+ => http://news.detik.com/read/2013/02/06/185645/2163166/10/rapat-dengan-kpk-fpks-pertanyakan-kunjungan-dubes-as = Rapat dengan KPK, FPKS Pertanyakan Kunjungan Dubes AS = 
+
+ => http://news.detik.com/read/2013/02/06/185033/2163152/10/pkpi-lolos-hary-tanoe-belum-ada-kontak-dengan-bang-yos = PKPI Lolos, Hary Tanoe Belum Ada Kontak dengan Bang Yos = 
+
+ => http://news.detik.com/read/2013/02/06/185458/2163164/10/terbukti-korupsi-proyek-shs-jacob-dihukum-9-tahun-dan-kosasih-4-tahun = Terbukti Korupsi Proyek SHS, Jacob Dihukum 9 Tahun dan Kosasih 4 Tahun = 
+
+ => http://news.detik.com/read/2013/02/06/185054/2163153/10/ditinggal-nining-1680-tenaga-ahli-aspri-dpr-ri-belum-gajian = Ditinggal Nining, 1.680 Tenaga Ahli & Aspri DPR RI Belum Gajian = 
+
+ => http://news.detik.com/read/2013/02/06/184946/2163149/10/api-muncul-lagi-di-lantai-3-glodok-petugas-damkar-kembali-beraksi = Api Muncul Lagi di Lantai 3 Glodok, Petugas Damkar Kembali Beraksi = 
+
+ => http://news.detik.com/read/2013/02/06/184910/2163150/10/bnpb-hujan-deras-timbulkan-banyak-genangan-tapi-sungai-masih-aman = BNPB: Hujan Deras Timbulkan Banyak Genangan, Tapi Sungai Masih Aman = 
+
+ => http://news.detik.com/read/2013/02/06/184814/2163146/10/api-di-bengkel-cafe-padam-api-berasal-dari-pengelasan = Api di Bengkel Cafe Padam, Api Berasal dari Pengelasan = 
+
+ => http://news.detik.com/read/2013/02/06/183737/2163140/10/polisi-tak-jerat-pemilik-ghat-chatinone-di-baturaden-banyumas = Polisi Tak Jerat Pemilik Ghat 'Chatinone' di Baturaden Banyumas = 
+
+ => http://news.detik.com/read/2013/02/06/190317/2163171/10/disatroni-perampok-pegadaian-di-samarinda-rugi-rp-67-m = Disatroni Perampok, Pegadaian di Samarinda Rugi Rp 6,7 M = 
+
+ => http://news.detik.com/read/2013/02/06/190101/2163168/10/pemprov-dki-luncurkan-transportasi-air-di-jakut-saat-valentine-day = Pemprov DKI Luncurkan Transportasi Air di Jakut Saat Valentine Day = 
+
+ => http://news.detik.com/read/2013/02/06/185645/2163166/10/rapat-dengan-kpk-fpks-pertanyakan-kunjungan-dubes-as = Rapat dengan KPK, FPKS Pertanyakan Kunjungan Dubes AS = 
+
+ => http://news.detik.com/read/2013/02/06/185033/2163152/10/pkpi-lolos-hary-tanoe-belum-ada-kontak-dengan-bang-yos = PKPI Lolos, Hary Tanoe Belum Ada Kontak dengan Bang Yos = 
+
+ => http://news.detik.com/read/2013/02/06/185458/2163164/10/terbukti-korupsi-proyek-shs-jacob-dihukum-9-tahun-dan-kosasih-4-tahun = Terbukti Korupsi Proyek SHS, Jacob Dihukum 9 Tahun dan Kosasih 4 Tahun = 
+
+ => http://news.detik.com/read/2013/02/06/185054/2163153/10/ditinggal-nining-1680-tenaga-ahli-aspri-dpr-ri-belum-gajian = Ditinggal Nining, 1.680 Tenaga Ahli & Aspri DPR RI Belum Gajian = 
+
+ => http://news.detik.com/read/2013/02/06/184946/2163149/10/api-muncul-lagi-di-lantai-3-glodok-petugas-damkar-kembali-beraksi = Api Muncul Lagi di Lantai 3 Glodok, Petugas Damkar Kembali Beraksi = 
+
+ => http://news.detik.com/read/2013/02/06/184910/2163150/10/bnpb-hujan-deras-timbulkan-banyak-genangan-tapi-sungai-masih-aman = BNPB: Hujan Deras Timbulkan Banyak Genangan, Tapi Sungai Masih Aman = 
+
+ => http://news.detik.com/read/2013/02/06/184814/2163146/10/api-di-bengkel-cafe-padam-api-berasal-dari-pengelasan = Api di Bengkel Cafe Padam, Api Berasal dari Pengelasan = 
+
+ => http://news.detik.com/read/2013/02/06/183737/2163140/10/polisi-tak-jerat-pemilik-ghat-chatinone-di-baturaden-banyumas = Polisi Tak Jerat Pemilik Ghat 'Chatinone' di Baturaden Banyumas = 
+
+ => http://news.detik.com/read/2013/02/06/191940/2163189/10/merek-toko-ibox-diperebutkan-hingga-ke-pengadilan = Merek Toko iBox Diperebutkan Hingga ke Pengadilan = 
+
+ => http://news.detik.com/read/2013/02/06/194757/2163218/10/komnas-perempuan-semester-i-2012-96-perempuan-lapor-dikadali-suami = Komnas Perempuan: Semester I 2012, 96 Perempuan Lapor 'Dikadali' Suami  = 
+
+ => http://news.detik.com/read/2013/02/06/194310/2163226/10/luthfi-harap-anis-menangkan-pks-dalam-pemilu-2014 = Luthfi Harap Anis Menangkan PKS dalam Pemilu 2014 = 
+
+ => http://news.detik.com/read/2013/02/06/193358/2163205/10/longsor-di-brebes-jateng-1-warga-tewas-dan-5-belum-ditemukan = Longsor di Brebes Jateng, 1 Warga Tewas dan 5 Belum Ditemukan = 
+
+ => http://news.detik.com/read/2013/02/06/195141/2163237/10/imbas-hujan-deras-jakarta-macet-di-mana-mana = Imbas Hujan Deras, Jakarta Macet di Mana-mana = 
+
+ => http://news.detik.com/read/2013/02/06/195116/2163236/10/soal-penangkapan-rani-kpk-tetap-sebut-di-depan-lift-bukan-di-kafe = Soal Penangkapan Rani, KPK Tetap Sebut di Depan Lift Bukan di Kafe = 
+
+ => http://news.detik.com/read/2013/02/06/195307/2163238/10/100-kg-serbuk-putih-diduga-beracun-ditemukan-di-kbt = 100 kg Serbuk Putih Diduga Beracun Ditemukan di KBT = 
+
+ => http://news.detik.com/read/2013/02/06/200219/2163250/10/ditanya-kasusnya-luthfi-pilih-bicarakan-pks = Ditanya Kasusnya, Luthfi Pilih Bicarakan PKS = 
+
+ => http://news.detik.com/read/2013/02/06/203005/2163263/10/dukung-pemakzulan-aceng-komnas-perempuan-desak-polisi-usut-kejahatan-perkawinan = Dukung Pemakzulan Aceng, Komnas Perempuan Desak Polisi Usut Kejahatan Perkawinan = 
+
+ => http://news.detik.com/read/2013/02/06/202045/2163262/10/di-mana-maharany-diamankan-saat-di-hotel-ini-jawaban-ketua-kpk = Di Mana Maharany Diamankan Saat di Hotel? Ini Jawaban Ketua KPK = 
+
+ => http://news.detik.com/read/2013/02/06/201658/2163260/10/kosasih-kecewa-hakim-tak-singgung-status-justice-collaborator = Kosasih Kecewa Hakim Tak Singgung Status Justice Collaborator = 
+
+ => http://news.detik.com/read/2013/02/06/201111/2163257/10/kpk-akan-validasi-rekaman-percakapan-luthfi-dan-suswono = KPK akan Validasi Rekaman Percakapan Luthfi dan Suswono = 
+
+ => http://news.detik.com/read/2013/02/06/203054/2163265/10/macet-berat-thamrin-bundaran-hi-merayap-bak-siput = Macet Berat, Thamrin- Bundaran HI Merayap Bak Siput = 
+
+ => http://news.detik.com/read/2013/02/06/205014/2163270/10/3-wni-dipulangkan-dari-papua-nugini = 3 WNI Dipulangkan dari Papua Nugini = 
+
+ => http://news.detik.com/read/2013/02/06/204727/2163269/10/di-tengah-isu-keretakan-partai-fraksi-demokrat-gelar-doa-bersama = Di Tengah Isu Keretakan Partai, Fraksi Demokrat Gelar Doa Bersama = 
+
+ => http://news.detik.com/read/2013/02/06/205908/2163272/10/lagi-polisi-di-garut-dapat-laporan-kasus-video-porno-pelajar = Lagi, Polisi di Garut Dapat Laporan Kasus Video Porno Pelajar = 
+
+ => http://news.detik.com/read/2013/02/06/215046/2163281/10/anas-tak-disebut-di-sms-sby-fpd-anas-termasuk-dalam-majelis-tinggi = Anas Tak Disebut di SMS SBY, FPD: Anas Termasuk dalam Majelis Tinggi = 
+
+ => http://news.detik.com/read/2013/02/06/220746/2163285/10/genangan-surut-lalin-di-beberapa-jalan-protokol-di-jakarta-masih-padat = Genangan Surut, Lalin di Beberapa Jalan Protokol di Jakarta Masih Padat  = 
+
+ => http://news.detik.com/read/2013/02/06/222806/2163291/10/miliki-9-kg-sabu-warga-malaysia-divonis-mati-di-pengadilan-jakut = Miliki 9 Kg Sabu, Warga Malaysia Divonis Mati di Pengadilan Jakut = 
+
+ => http://news.detik.com/read/2013/02/06/221821/2163287/10/pidato-di-ktt-oki-sby-kembali-berikan-dukungan-palestina = Pidato di KTT OKI, SBY Kembali Berikan Dukungan Palestina = 
+
+ => http://news.detik.com/read/2013/02/06/221535/2163286/10/sstt-tersangka-suap-impor-daging-akui-rp-1-m-untuk-luthfi-hasan =  Sstt, Tersangka Suap Impor Daging Akui Rp 1 M untuk Luthfi Hasan = 
+
+ => http://news.detik.com/read/2013/02/06/223252/2163293/10/presiden-sby-jika-kita-goyah-abad-ke-21-tidak-jadi-milik-kita = Presiden SBY: Jika Kita Goyah, Abad ke-21 Tidak Jadi Milik Kita = 
+
+ => http://news.detik.com/read/2013/02/06/230400/2163297/10/anas-hadir-di-acara-doa-bersama-fpd-ibas-tak-tampak = Anas Hadir di Acara Doa Bersama FPD, Ibas Tak Tampak  = 
+
+ => http://news.detik.com/read/2013/02/07/000022/2163304/10/masuk-ke-dalam-kantor-komodo-serang-2-penjaga-taman-nasional = Masuk ke Dalam Kantor, Komodo Serang 2 Penjaga Taman Nasional = 
+
+ => http://news.detik.com/read/2013/02/07/004133/2163308/10/anas-kita-nggak-mau-kesurupan-hasil-survei = Anas: Kita Nggak Mau Kesurupan Hasil Survei = 
+
+ => http://news.detik.com/read/2013/02/07/005717/2163313/10/tak-ada-izin-pemeliharaan-3-gajah-disita-dari-taman-waduk-gajah-mungkur = Tak Ada Izin Pemeliharaan, 3 Gajah Disita dari Taman Waduk Gajah Mungkur = 
+
+ => http://news.detik.com/read/2013/02/07/010315/2163318/10/sby-minta-kpk-kejelasan-status-kader-demokrat-anas-status-saya-jelas = SBY Minta KPK Kejelasan Status Kader Demokrat, Anas: Status Saya Jelas = 
+
+ => http://news.detik.com/read/2013/02/07/012001/2163323/10/tak-disebut-di-sms-sby-anas-saya-aliran-substansial-yang-penting-isinya = Tak Disebut di SMS SBY, Anas: Saya Aliran Substansial, yang Penting Isinya = 
+
+ => http://news.detik.com/read/2013/02/07/010315/2163318/10/sby-minta-kpk-perjelas-status-kader-demokrat-anas-status-saya-jelas = SBY Minta KPK Perjelas Status Kader Demokrat, Anas: Status Saya Jelas = 
+
+ => http://news.detik.com/read/2013/02/07/005717/2163313/10/tak-ada-izin-pemeliharaan-3-gajah-disita-dari-taman-waduk-gajah-mungkur = Tak Ada Izin Pemeliharaan, 3 Gajah Disita dari Taman Waduk Gajah Mungkur = 
+
+ => http://news.detik.com/read/2013/02/07/004133/2163308/10/anas-kita-nggak-mau-kesurupan-hasil-survei = Anas: Kita Nggak Mau Kesurupan Hasil Survei = 
+
+ => http://news.detik.com/read/2013/02/07/000022/2163304/10/masuk-ke-dalam-kantor-komodo-serang-2-penjaga-taman-nasional = Masuk ke Dalam Kantor, Komodo Serang 2 Penjaga Taman Nasional = 
+
+ => http://news.detik.com/read/2013/02/06/230400/2163297/10/anas-hadir-di-acara-doa-bersama-fpd-ibas-tak-tampak = Anas Hadir di Acara Doa Bersama FPD, Ibas Tak Tampak  = 
+
+ => http://news.detik.com/read/2013/02/06/223252/2163293/10/presiden-sby-jika-kita-goyah-abad-ke-21-tidak-jadi-milik-kita = Presiden SBY: Jika Kita Goyah, Abad ke-21 Tidak Jadi Milik Kita = 
+
+ => http://news.detik.com/read/2013/02/06/222806/2163291/10/miliki-9-kg-sabu-warga-malaysia-divonis-mati-di-pengadilan-jakut = Miliki 9 Kg Sabu, Warga Malaysia Divonis Mati di Pengadilan Jakut = 
+
+ => http://news.detik.com/read/2013/02/06/221821/2163287/10/pidato-di-ktt-oki-sby-kembali-berikan-dukungan-kepada-palestina = Pidato di KTT OKI, SBY Kembali Berikan Dukungan kepada Palestina = 
+
+ => http://news.detik.com/read/2013/02/06/221535/2163286/10/ssst-tersangka-suap-impor-daging-akui-rp-1-m-untuk-luthfi-hasan = Ssst... Tersangka Suap Impor Daging Akui Rp 1 M untuk Luthfi Hasan = 
+
+ => http://news.detik.com/read/2013/02/07/015911/2163330/10/anas-sebut-pkpi-sebagai-sahabat-demokrat = Anas Sebut PKPI Sebagai Sahabat Demokrat = 
+
+ => http://news.detik.com/read/2013/02/07/023056/2163337/10/di-depan-kader-demokrat-anas-bercerita-tentang-loyalitas-sahabat-rasul = Di Depan Kader Demokrat, Anas Bercerita tentang Loyalitas Sahabat Rasul = 
+
+ => http://news.detik.com/read/2013/02/07/024702/2163339/10/polisi-tangkap-2-pentolan-demo-anarkis-di-riau = Polisi Tangkap 2 Pentolan Demo Anarkis di Riau = 
+
+ => http://news.detik.com/read/2013/02/07/030348/2163343/10/terkait-penyelematan-partai-anas-siap-patuhi-apapun-perintah-sby = Terkait Penyelematan Partai, Anas Siap Patuhi Apapun Perintah SBY = 
+
+ => http://news.detik.com/read/2013/02/07/040053/2163345/10/puluhan-aktivis-muda-nu-merapat-ke-nasdem = Puluhan Aktivis Muda NU Merapat ke NasDem = 
+
+ => http://news.detik.com/read/2013/02/07/043239/2163349/10/tim-sar-lakukan-pencarian-korban-di-lokasi-tambang-yang-ambruk-di-sumut = Tim SAR Lakukan Pencarian Korban di Lokasi Tambang yang Ambruk di Sumut = 
+
+ => http://news.detik.com/read/2013/02/07/050828/2163354/10/penadah-puluhan-motor-curian-berhasil-dibekuk-polisi-di-pati = Penadah Puluhan Motor Curian Berhasil Dibekuk Polisi di Pati = 
+
+ => http://news.detik.com/read/2013/02/07/055138/2163356/10/gempa-56-sr-guncang-pesisir-selatan-sumbar = Gempa 5,6 SR Guncang Pesisir Selatan Sumbar = 
+
+ => http://news.detik.com/read/2013/02/07/060150/2163358/10/gempa-56-sr-di-pesisir-selatan-sumbar-terasa-hingga-kota-padang = Gempa 5,6 SR di Pesisir Selatan Sumbar Terasa Hingga Kota Padang = 
+
+ => http://news.detik.com/read/2013/02/07/065402/2163366/10/truk-bermuatan-galon-terguling-di-tol-jakarta-merak-lalin-padat-3-km = Truk Bermuatan Galon Terguling di Tol Jakarta-Merak, Lalin Padat 3 Km = 
+
+ => http://news.detik.com/read/2013/02/07/070518/2163370/10/petugas-damkar-padamkan-api-yang-membakar-bangunan-di-rawamangun = Petugas Damkar Padamkan Api yang Membakar Bangunan di Rawamangun = 
+
+ => http://news.detik.com/read/2013/02/07/070518/2163370/10/8-unit-damkar-padamkan-api-yang-membakar-rumah-di-rawamangun = 8 Unit Damkar Padamkan Api yang Membakar Rumah di Rawamangun = 
+
+ => http://news.detik.com/read/2013/02/07/065402/2163366/10/truk-bermuatan-galon-terguling-di-tol-jakarta-merak-lalin-padat-3-km = Truk Bermuatan Galon Terguling di Tol Jakarta-Merak, Lalin Padat 3 Km = 
+
+ => http://news.detik.com/read/2013/02/07/060150/2163358/10/gempa-56-sr-di-pesisir-selatan-sumbar-terasa-hingga-kota-padang = Gempa 5,6 SR di Pesisir Selatan Sumbar Terasa Hingga Kota Padang = 
+
+ => http://news.detik.com/read/2013/02/07/055138/2163356/10/gempa-56-sr-guncang-pesisir-selatan-sumbar = Gempa 5,6 SR Guncang Pesisir Selatan Sumbar = 
+
+ => http://news.detik.com/read/2013/02/07/050828/2163354/10/penadah-puluhan-motor-curian-berhasil-dibekuk-polisi-di-pati = Penadah Puluhan Motor Curian Berhasil Dibekuk Polisi di Pati = 
+
+ => http://news.detik.com/read/2013/02/07/043239/2163349/10/tim-sar-lakukan-pencarian-korban-di-lokasi-tambang-yang-ambruk-di-sumut = Tim SAR Lakukan Pencarian Korban di Lokasi Tambang yang Ambruk di Sumut = 
+
+ => http://news.detik.com/read/2013/02/07/040053/2163345/10/puluhan-aktivis-muda-nu-merapat-ke-nasdem = Puluhan Aktivis Muda NU Merapat ke NasDem = 
+
+ => http://news.detik.com/read/2013/02/07/030348/2163343/10/terkait-penyelamatan-partai-anas-siap-patuhi-apapun-perintah-sby = Terkait Penyelamatan Partai, Anas Siap Patuhi Apapun Perintah SBY = 
+
+ => http://news.detik.com/read/2013/02/07/024702/2163339/10/polisi-tangkap-2-pentolan-demo-anarkis-di-riau = Polisi Tangkap 2 Pentolan Demo Anarkis di Riau = 
+
+ => http://news.detik.com/read/2013/02/07/023056/2163337/10/di-depan-kader-demokrat-anas-bercerita-tentang-loyalitas-sahabat-rasul = Di Depan Kader Demokrat, Anas Bercerita tentang Loyalitas Sahabat Rasul = 
+
+ => http://news.detik.com/read/2013/02/07/073755/2163383/10/buah-pisang-tumbuh-di-tengah-batang-pohon-dianggap-bertuah-oleh-warga = Buah Pisang Tumbuh di Tengah Batang Pohon, Dianggap Bertuah oleh Warga = 
+
+ => http://news.detik.com/read/2013/02/07/080613/2163398/10/polisi-tangkap-pelaku-pemerkosaan-di-kramat-jati = Polisi Tangkap Pelaku Pemerkosaan di Kramat Jati = 
+
+ => http://news.detik.com/read/2013/02/07/082032/2163410/10/gempa-53-sr-goyang-sibolga-sumut = Gempa 5,3 SR Goyang Sibolga Sumut = 
+
+ => http://news.detik.com/read/2013/02/07/082648/2163415/10/hakim-ad-hoc-tipikor-ma-terdakwa-divonis-bebas-jaksa-bisa-kasasi = Hakim Ad Hoc Tipikor MA: Terdakwa Divonis Bebas, Jaksa Bisa Kasasi = 
+
+ => http://news.detik.com/read/2013/02/07/084000/2163425/10/elektabilitas-pd-anjlok-di-survei-fpd-jangan-terlalu-panik = Elektabilitas PD Anjlok di Survei, FPD: Jangan Terlalu Panik = 
+
+ => http://news.detik.com/read/2013/02/07/085213/2163441/10/ditawari-jadi-pencuci-piring-pencuri-pilih-tetap-tinggal-di-penjara = Ditawari Jadi Pencuci Piring, Pencuri Pilih Tetap Tinggal di Penjara = 
+
+ => http://news.detik.com/read/2013/02/07/094457/2163477/10/kasus-impor-daging-kpk-periksa-3-direktur-perusahaan-swasta = Kasus Impor Daging, KPK Periksa 3 Direktur Perusahaan Swasta = 
+
+ => http://news.detik.com/read/2013/02/07/093121/2163466/10/ini-momen-5-perayaan-sederhana-ala-ahok = Ini Momen 5 Perayaan Sederhana Ala Ahok = 
+
+ => http://news.detik.com/read/2013/02/07/095051/2163480/10/banjir-bandang-terjang-permukiman-di-dairi-sumut-1-rumah-hanyut = Banjir Bandang Terjang Permukiman di Dairi Sumut, 1 Rumah Hanyut = 
+
+ => http://news.detik.com/read/2013/02/07/100130/2163495/10/sidang-pemecatan-hakim-cantik-selingkuh-berjalan-tertutup = Sidang Pemecatan Hakim Cantik Selingkuh Berjalan Tertutup = 
+
+ => http://news.detik.com/read/2013/02/07/100357/2163496/10/kadis-pu-cari-penyebab-kelelepnya-terowongan-casablanca = Kadis PU Cari Penyebab Kelelepnya Terowongan Casablanca = 
+
+ => http://news.detik.com/read/2013/02/07/100743/2163502/10/bmkg-siang-atau-sore-ini-masih-berpeluang-hujan-lebat =  BMKG: Siang atau Sore ini Masih Berpeluang Hujan Lebat = 
+
+ => http://news.detik.com/read/2013/02/07/102316/2163518/10/jokowi-capres-paling-potensial-ini-tanggapan-pdip = Jokowi Capres Paling Potensial, Ini Tanggapan PDIP = 
+
+ => http://news.detik.com/read/2013/02/07/102136/2163519/10/kasus-korupsi-anggaran-kpk-periksa-eks-irjen-kemendiknas = Kasus Korupsi Anggaran, KPK Periksa Eks Irjen Kemendiknas = 
+
+ => http://news.detik.com/read/2013/02/07/102834/2163539/10/kpk-panggil-ahmad-fathanah-dan-direktur-pt-indoguna = KPK Panggil Ahmad Fathanah dan Direktur PT Indoguna = 
+
+ => http://news.detik.com/read/2013/02/07/104121/2163550/10/4-gaya-santai-anas-hadapi-prahara-di-partai-demokrat = 4 Gaya Santai Anas Hadapi Prahara di Partai Demokrat = 
+
+ => http://news.detik.com/read/2013/02/07/103358/2163544/10/anis-matta-sampaikan-surat-pengunduran-diri-dari-dpr-hari-ini = Anis Matta Sampaikan Surat Pengunduran Diri dari DPR Hari Ini = 
+
+ => http://news.detik.com/read/2013/02/07/104759/2163556/10/modus-baru-penjualan-bayi-dipesan-sejak-dalam-kandungan = Modus Baru Penjualan Bayi: Dipesan Sejak dalam Kandungan = 
+
+ => http://news.detik.com/read/2013/02/07/105503/2163582/10/pdip-tak-restui-pencapresan-jokowi-di-2014 = PDIP Tak Restui Pencapresan Jokowi di 2014 = 
+
+ => http://news.detik.com/read/2013/02/07/105738/2163571/10/pria-yang-bunuh-diri-di-flyover-pasar-rebo-depresi-mengidap-hiv = Pria yang Bunuh Diri di Flyover Pasar Rebo Depresi Mengidap HIV = 
+
+ => http://news.detik.com/read/2013/02/07/105328/2163575/10/komisi-ii-keputusan-bawaslu-soal-pkpi-tidak-final = Komisi II: Keputusan Bawaslu Soal PKPI Tidak Final = 
+
+ => http://news.detik.com/read/2013/02/07/111626/2163626/10/kaget-pkpi-ikut-pemilu-2014-dpr-minta-klarifikasi-bawaslu = Kaget PKPI Ikut Pemilu 2014, DPR Minta Klarifikasi Bawaslu  = 
+
+ => http://news.detik.com/read/2013/02/07/112208/2163632/10/pks-sohibul-iman-gantikan-anis-matta = PKS: Sohibul Iman Gantikan Anis Matta = 
+
+ => http://news.detik.com/read/2013/02/07/114412/2163664/10/terima-hadiah-ketua-pengadilan-agama-ditegur-lisan = Terima Hadiah, Ketua Pengadilan Agama Ditegur Lisan = 
+
+ => http://news.detik.com/read/2013/02/07/114609/2163667/10/perempuan-diduga-psk-di-semarang-melahirkan-saat-mangkal = Perempuan Diduga PSK di Semarang Melahirkan Saat Mangkal = 
+
+ => http://news.detik.com/read/2013/02/07/113006/2163645/10/nasib-pd-di-tangan-sby = Nasib PD di Tangan SBY = 
+
+ => http://news.detik.com/read/2013/02/07/115124/2163675/10/tuntut-keadilan-hiu-bersaudara-anton-medan-geruduk-kedubes-malaysia =  Tuntut Keadilan Hiu Bersaudara, Anton Medan Geruduk Kedubes Malaysia = 
+
+ => http://news.detik.com/read/2013/02/07/115032/2163674/10/seoranga-wanita-pingsan-saat-bnn-bakar-narkobanya = Seoranga Wanita Pingsan Saat BNN Bakar Narkobanya = 
+
+ => http://news.detik.com/read/2013/02/07/115948/2163686/10/rapat-putusan-sidang-pemecatan-hakim-cantik-ada-diskors = Rapat Putusan, Sidang Pemecatan Hakim Cantik ADA Diskors = 
+
+ => http://news.detik.com/read/2013/02/07/115358/2163677/10/ini-komentar-jokowi-disebut-capres-potensial-salip-mega-prabowo =  Ini Komentar Jokowi Disebut Capres Potensial Salip Mega & Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/115844/2163682/10/anis-matta-masih-yakin-pks-sukses-di-pilgub-jabar-dan-sumut = Anis Matta Masih Yakin PKS Sukses di Pilgub Jabar dan Sumut = 
+
+ => http://news.detik.com/read/2013/02/07/115551/2163684/10/jakarta-masih-kebanjiran-nasib-kadis-pu-ada-di-tangan-jokowi = Jakarta Masih Kebanjiran, Nasib Kadis PU Ada di Tangan Jokowi = 
+
+ => http://news.detik.com/read/2013/02/07/120749/2163700/10/cegah-banjir-di-casablanca-dinas-pu-buat-crossing-saluran-air-baru = Cegah Banjir di Casablanca, Dinas PU Buat Crossing Saluran Air Baru = 
+
+ => http://news.detik.com/read/2013/02/07/120507/2163696/10/jakarta-banjir-lagi-jokowi-drainasenya-harus-digedein = Jakarta Banjir Lagi, Jokowi: Drainasenya Harus Digedein = 
+
+ => http://news.detik.com/read/2013/02/07/122549/2163724/10/ppp-jokowi-sedot-pemilih-mega-dan-prabowo =  PPP: Jokowi Sedot Pemilih Mega dan Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/122348/2163722/10/raffi-ahmad-diperiksa-di-rsko-cibubur = Raffi Ahmad Diperiksa di RSKO Cibubur = 
+
+ => http://news.detik.com/read/2013/02/07/121853/2163712/10/kasus-hambalang-kpk-panggil-nazarudin-sebagai-saksi = Kasus Hambalang, KPK Panggil Nazarudin sebagai Saksi = 
+
+ => http://news.detik.com/read/2013/02/07/121325/2163707/10/2-tersangka-pembantaian-gadis-di-bogor-didor = 2 Tersangka Pembantaian Gadis di Bogor Didor = 
+
+ => http://news.detik.com/read/2013/02/07/124427/2163738/10/asteroid-1-2-lapangan-bola-dekati-bumi-16-februari = Asteroid 1/2 Lapangan Bola Dekati Bumi 16 Februari = 
+
+ => http://news.detik.com/read/2013/02/07/123635/2163735/10/jalan-tertimbun-longsor-ribuan-warga-gunung-sumbing-magelang-terisolir = Jalan Tertimbun Longsor, Ribuan Warga Gunung Sumbing Magelang Terisolir = 
+
+ => http://news.detik.com/read/2013/02/07/123430/2163734/10/2-wn-malaysia-pelindung-istri-nazar-dituntut-9-tahun-penjara = 2 WN Malaysia Pelindung istri Nazar, Dituntut 9 Tahun Penjara = 
+
+ => http://news.detik.com/read/2013/02/07/125038/2163750/10/datangkan-saksi-sidang-pemecatan-hakim-cantik-ada-ditunda-14-hari = Datangkan Saksi, Sidang Pemecatan Hakim Cantik ADA Ditunda 14 Hari = 
+
+ => http://news.detik.com/read/2013/02/07/124427/2163738/10/asteroid-seluas-1-2-lapangan-bola-dekati-bumi-16-februari = Asteroid Seluas 1/2 Lapangan Bola Dekati Bumi 16 Februari = 
+
+ => http://news.detik.com/read/2013/02/07/124520/2163739/10/anis-matta-dpr-mengesankan-karena-ributnya = Anis Matta: DPR Mengesankan Karena Ributnya = 
+
+ => http://news.detik.com/read/2013/02/07/123635/2163735/10/jalan-tertimbun-longsor-ribuan-warga-gunung-sumbing-magelang-terisolir = Jalan Tertimbun Longsor, Ribuan Warga Gunung Sumbing Magelang Terisolir = 
+
+ => http://news.detik.com/read/2013/02/07/123430/2163734/10/2-wn-malaysia-pelindung-istri-nazar-dituntut-9-tahun-penjara = 2 WN Malaysia Pelindung istri Nazar, Dituntut 9 Tahun Penjara = 
+
+ => http://news.detik.com/read/2013/02/07/122549/2163724/10/ppp-jokowi-sedot-pemilih-mega-dan-prabowo =  PPP: Jokowi Sedot Pemilih Mega dan Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/122348/2163722/10/raffi-ahmad-diperiksa-di-rsko-cibubur = Raffi Ahmad Diperiksa di RSKO Cibubur = 
+
+ => http://news.detik.com/read/2013/02/07/121853/2163712/10/kasus-hambalang-kpk-panggil-nazarudin-sebagai-saksi = Kasus Hambalang, KPK Panggil Nazarudin sebagai Saksi = 
+
+ => http://news.detik.com/read/2013/02/07/121325/2163707/10/2-tersangka-pembantaian-gadis-di-bogor-didor = 2 Tersangka Pembantaian Gadis di Bogor Didor = 
+
+ => http://news.detik.com/read/2013/02/07/120749/2163700/10/cegah-banjir-di-casablanca-dinas-pu-buat-crossing-saluran-air-baru = Cegah Banjir di Casablanca, Dinas PU Buat Crossing Saluran Air Baru = 
+
+ => http://news.detik.com/read/2013/02/07/130742/2163763/10/pakai-sandal-jepit-ditolak-imigrasi-yogya-dosen-ugm-lapor-ombudsman = Pakai Sandal Jepit Ditolak Imigrasi Yogya, Dosen UGM Lapor Ombudsman = 
+
+ => http://news.detik.com/read/2013/02/07/125231/2163755/10/ups-5-anggota-dpr-ini-kepergok-main-game-hingga-buka-gambar-porno = Ups! 5 Anggota DPR Ini Kepergok Main Game Hingga Buka Gambar Porno = 
+
+ => http://news.detik.com/read/2013/02/07/132714/2163793/10/tak-boleh-pakai-sandal-jepit-dosen-ugm-imigrasi-lakukan-egoisme-birokrat = Tak Boleh Pakai Sandal Jepit, Dosen UGM: Imigrasi Lakukan Egoisme Birokrat = 
+
+ => http://news.detik.com/read/2013/02/07/131216/2163781/10/siap-siap-rekening-tanpa-identitas-jelas-akan-disita-negara = Siap-siap! Rekening Tanpa Identitas Jelas Akan Disita Negara = 
+
+ => http://news.detik.com/read/2013/02/07/131413/2163782/10/tanpa-restu-mega-jokowi-baru-bisa-nyapres-2019 = Tanpa Restu Mega, Jokowi Baru Bisa Nyapres 2019 = 
+
+ => http://news.detik.com/read/2013/02/07/131218/2163780/10/jokowi-ke-koperasi-bajaj-jumat =  Jokowi ke Koperasi Bajaj Jumat = 
+
+ => http://news.detik.com/read/2013/02/07/133059/2163805/10/sekjen-pan-jokowi-memang-figur-fenomenal = Sekjen PAN: Jokowi Memang Figur Fenomenal = 
+
+ => http://news.detik.com/read/2013/02/07/132640/2163799/10/ical-beri-kejutan-kepada-seorang-mahasiswi = Ical Beri Kejutan kepada Seorang Mahasiswi = 
+
+ => http://news.detik.com/read/2013/02/07/133830/2163820/10/ppatk-harus-periksa-aliran-uang-pengacara-napi-bandar-narkoba = PPATK Harus Periksa Aliran Uang Pengacara Napi Bandar Narkoba = 
+
+ => http://news.detik.com/read/2013/02/07/135234/2163828/10/ibu-korban-minta-abg-pemerkosa-di-kramat-jati-dihukum-berat = Ibu Korban Minta ABG Pemerkosa di Kramat Jati Dihukum Berat = 
+
+ => http://news.detik.com/read/2013/02/07/135643/2163833/10/bisa-bebas-4-napi-ini-malah-pilih-tinggal-di-penjara = Bisa Bebas, 4 Napi Ini Malah Pilih Tinggal di Penjara = 
+
+ => http://news.detik.com/read/2013/02/07/135844/2163835/10/anis-matta-pimpinan-dpr-kompak-kecuali-soal-poligami = Anis Matta: Pimpinan DPR Kompak, Kecuali Soal Poligami = 
+
+ => http://news.detik.com/read/2013/02/07/140453/2163850/10/sidang-kicauan-triomacan2000-di-twitter-digelar-wartawan-jadi-saksi = Sidang Kicauan Triomacan2000 di Twitter Digelar, Wartawan Jadi Saksi = 
+
+ => http://news.detik.com/read/2013/02/07/140806/2163855/10/pura-pura-bertamu-kawanan-perampok-satroni-rumah-di-grogol = Pura-pura Bertamu, Kawanan Perampok Satroni Rumah di Grogol = 
+
+ => http://news.detik.com/read/2013/02/07/142648/2163870/10/bocah-korban-pemerkosaan-di-kramat-jati-masih-suka-menjerit-jerit = Bocah Korban Pemerkosaan di Kramat Jati Masih Suka Menjerit-jerit = 
+
+ => http://news.detik.com/read/2013/02/07/142217/2163871/10/3-kelompok-massa-demo-di-kpk-lalin-kuningan-arah-mampang-tersendat = 3 Kelompok Massa Demo di KPK, Lalin Kuningan arah Mampang Tersendat = 
+
+ => http://news.detik.com/read/2013/02/07/141948/2163868/10/hadapi-pemilu-2014-17-partai-kecil-melebur-di-pkpi = Hadapi Pemilu 2014, 17 Partai Kecil Melebur di PKPI  = 
+
+ => http://news.detik.com/read/2013/02/07/141557/2163863/10/sby-bantah-tidak-kirim-sms-perintah-berdoa-selamatkan-pd-ke-anas = SBY Bantah Tidak Kirim SMS Perintah Berdoa Selamatkan PD ke Anas = 
+
+ => http://news.detik.com/read/2013/02/07/141128/2163858/10/sby-sudah-punya-solusi-selamatkan-pd = SBY Sudah Punya Solusi Selamatkan PD = 
+
+ => http://news.detik.com/read/2013/02/07/143142/2163890/10/pencuri-minta-dihukum-berat-juga-ditemukan-di-berbagai-tempat-lain = Pencuri Minta Dihukum Berat Juga Ditemukan di Berbagai Tempat Lain = 
+
+ => http://news.detik.com/read/2013/02/07/143220/2163886/10/ibu-bayi-sehat-cakep-diberi-insentif-rp-20-40-juta = Ibu Bayi Sehat & Cakep Diberi Insentif Rp 20-40 Juta  = 
+
+ => http://news.detik.com/read/2013/02/07/145023/2163918/10/ketum-gerindra-tak-mungkin-jokowi-salip-elektabiltias-prabowo = Ketum Gerindra: Tak Mungkin Jokowi Salip Elektabiltias Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/145309/2163920/10/bakar-poster-pendemo-di-kpk-kocar-kacir-dibubarkan-polisi = Bakar Poster, Pendemo di KPK Kocar-kacir Dibubarkan Polisi = 
+
+ => http://news.detik.com/read/2013/02/07/144719/2163913/10/presiden-sby-tiba-dari-kunjungan-kerja-ke-afrika = Presiden SBY Tiba dari Kunjungan Kerja ke Afrika = 
+
+ => http://news.detik.com/read/2013/02/07/145602/2163925/10/wamen-denny-lebih-baik-kita-seriusi-soal-anticalo-daripada-sandal-jepit = Wamen Denny: Lebih Baik Kita Seriusi Soal Anticalo, Daripada Sandal Jepit = 
+
+ => http://news.detik.com/read/2013/02/07/145627/2163928/10/dirjen-haki-ungkap-pemalsuan-merek-korek-gas-di-penjaringan = Dirjen HAKI Ungkap Pemalsuan Merek Korek Gas di Penjaringan = 
+
+ => http://news.detik.com/read/2013/02/07/145023/2163918/10/ketum-gerindra-tak-mungkin-jokowi-salip-elektabilitas-prabowo = Ketum Gerindra: Tak Mungkin Jokowi Salip Elektabilitas Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/145309/2163920/10/bakar-poster-pendemo-di-kpk-kocar-kacir-dibubarkan-polisi = Bakar Poster, Pendemo di KPK Kocar-kacir Dibubarkan Polisi = 
+
+ => http://news.detik.com/read/2013/02/07/144719/2163913/10/presiden-sby-tiba-dari-kunjungan-kerja-ke-afrika = Presiden SBY Tiba dari Kunjungan Kerja ke Afrika = 
+
+ => http://news.detik.com/read/2013/02/07/143142/2163890/10/pencuri-minta-dihukum-berat-juga-ditemukan-di-berbagai-tempat-lain = Pencuri Minta Dihukum Berat Juga Ditemukan di Berbagai Tempat Lain = 
+
+ => http://news.detik.com/read/2013/02/07/143220/2163886/10/ibu-bayi-sehat-cakep-diberi-insentif-rp-20-40-juta = Ibu Bayi Sehat & Cakep Diberi Insentif Rp 20-40 Juta  = 
+
+ => http://news.detik.com/read/2013/02/07/142648/2163870/10/bocah-korban-pemerkosaan-di-kramat-jati-masih-suka-menjerit-jerit = Bocah Korban Pemerkosaan di Kramat Jati Masih Suka Menjerit-jerit = 
+
+ => http://news.detik.com/read/2013/02/07/142458/2163877/10/pramono-ungkap-persekongkolan-pimpinan-dpr-untuk-pansus-century =  Pramono Ungkap 'Persekongkolan' Pimpinan DPR untuk Pansus Century = 
+
+ => http://news.detik.com/read/2013/02/07/142217/2163871/10/3-kelompok-massa-demo-di-kpk-lalin-kuningan-arah-mampang-tersendat = 3 Kelompok Massa Demo di KPK, Lalin Kuningan arah Mampang Tersendat = 
+
+ => http://news.detik.com/read/2013/02/07/150515/2163943/10/ini-3-syarat-wakil-ketua-ma-dampingi-hatta-ali = Ini 3 Syarat Wakil Ketua MA Dampingi Hatta Ali = 
+
+ => http://news.detik.com/read/2013/02/07/151003/2163953/10/dituduh-curi-burung-pengamen-mengaku-disiksa-polisi-hingga-kencing-darah = Dituduh Curi Burung, Pengamen Mengaku Disiksa Polisi hingga Kencing Darah = 
+
+ => http://news.detik.com/read/2013/02/07/150619/2163950/10/bayi-dijual-plus-surat-keterangan-lahir-paspor = Bayi Dijual Plus Surat Keterangan Lahir & Paspor = 
+
+ => http://news.detik.com/read/2013/02/07/152328/2163977/10/anggota-komisi-iii-dpr-dukung-dosen-ugm-soal-sandal-jepit-di-imigrasi = Anggota Komisi III DPR Dukung Dosen UGM Soal Sandal Jepit di Imigrasi = 
+
+ => http://news.detik.com/read/2013/02/07/150515/2163943/10/ini-3-syarat-wakil-ketua-ma-pendamping-hatta-ali = Ini 3 Syarat Wakil Ketua MA Pendamping Hatta Ali = 
+
+ => http://news.detik.com/read/2013/02/07/151003/2163953/10/dituduh-curi-burung-pengamen-mengaku-disiksa-polisi-hingga-kencing-darah = Dituduh Curi Burung, Pengamen Mengaku Disiksa Polisi hingga Kencing Darah = 
+
+ => http://news.detik.com/read/2013/02/07/150619/2163950/10/bayi-dijual-plus-surat-keterangan-lahir-paspor = Bayi Dijual Plus Surat Keterangan Lahir & Paspor = 
+
+ => http://news.detik.com/read/2013/02/07/145602/2163925/10/wamen-denny-lebih-baik-kita-seriusi-soal-anticalo-daripada-sandal-jepit = Wamen Denny: Lebih Baik Kita Seriusi Soal Anticalo, Daripada Sandal Jepit = 
+
+ => http://news.detik.com/read/2013/02/07/145627/2163928/10/dirjen-haki-ungkap-pemalsuan-merek-korek-gas-di-penjaringan = Dirjen HAKI Ungkap Pemalsuan Merek Korek Gas di Penjaringan = 
+
+ => http://news.detik.com/read/2013/02/07/145023/2163918/10/ketum-gerindra-tak-mungkin-jokowi-salip-elektabilitas-prabowo = Ketum Gerindra: Tak Mungkin Jokowi Salip Elektabilitas Prabowo = 
+
+ => http://news.detik.com/read/2013/02/07/145309/2163920/10/bakar-poster-pendemo-di-kpk-kocar-kacir-dibubarkan-polisi = Bakar Poster, Pendemo di KPK Kocar-kacir Dibubarkan Polisi = 
+
+ => http://news.detik.com/read/2013/02/07/144719/2163913/10/presiden-sby-tiba-dari-kunjungan-kerja-ke-afrika = Presiden SBY Tiba dari Kunjungan Kerja ke Afrika = 
+
+ => http://news.detik.com/read/2013/02/07/143142/2163890/10/pencuri-minta-dihukum-berat-juga-ditemukan-di-berbagai-tempat-lain = Pencuri Minta Dihukum Berat Juga Ditemukan di Berbagai Tempat Lain = 
+
+ => http://news.detik.com/read/2013/02/07/154354/2164011/10/ditanya-sby-soal-hujan-jokowi-jawab-hujan-tapi-nggak-banjir = Ditanya SBY Soal Hujan, Jokowi Jawab: Hujan Tapi Nggak Banjir = 
+
+ => http://news.detik.com/read/2013/02/07/154537/2164003/10/soal-sandal-jepit-dosen-ugm-ombudsman-akan-klarifikasi-ke-imigrasi-diy = Soal Sandal Jepit Dosen UGM, Ombudsman Akan Klarifikasi ke Imigrasi DIY = 
+
+ => http://news.detik.com/read/2013/02/07/154447/2163997/10/ruu-ormas-dinilai-berpotensi-kriminalisasi-ormas-semau-penguasa = RUU Ormas Dinilai Berpotensi Kriminalisasi Ormas Semau Penguasa = 
+
+ => http://news.detik.com/read/2013/02/07/154430/2164012/10/duh-molornya-sidang-di-pengadilan-tipikor = Duh.. Molornya Sidang di Pengadilan Tipikor = 
+
+ => http://news.detik.com/read/2013/02/07/154113/2164007/10/proyek-normalisasi-kali-pemprov-dki-dikeluhkan-warga-koja = Proyek Normalisasi Kali Pemprov DKI Dikeluhkan Warga Koja = 
+
+ => http://news.detik.com/read/2013/02/07/160258/2164040/10/sby-kumpulkan-wanbin-pd-ke-cikeas-malam-nanti = SBY Kumpulkan Wanbin PD ke Cikeas Malam Nanti = 
+
+ => http://news.detik.com/read/2013/02/07/160100/2164038/10/kaget-pkpi-lolos-ikut-pemilu-priyo-serahkan-pada-kpu = Kaget PKPI Lolos Ikut Pemilu, Priyo: Serahkan pada KPU = 
+
+ => http://news.detik.com/read/2013/02/07/160028/2164034/10/dirjen-haki-sita-3-kontainer-korek-gas-palsu-dari-7-titik = Dirjen HAKI Sita 3 Kontainer Korek Gas Palsu dari 7 Titik = 
+
+ => http://news.detik.com/read/2013/02/07/155451/2164031/10/sindikat-penjual-bayi-beroperasi-sejak-1992 =  Sindikat Penjual Bayi Beroperasi Sejak 1992 = 
+
+ => http://news.detik.com/read/2013/02/07/155241/2164027/10/suporter-timnas-hadiri-sidang-diego-michels = Suporter Timnas Hadiri Sidang Diego Michels = 
+
+ => http://news.detik.com/read/2013/02/07/161521/2164055/10/ketua-kpu-media-banyak-dikuasai-politisi-kampanye-bisa-picu-sengketa = Ketua KPU: Media Banyak Dikuasai Politisi, Kampanye Bisa Picu Sengketa = 
+
+ => http://news.detik.com/read/2013/02/07/160926/2164051/10/bang-yos-harap-ada-3-parpol-lagi-yang-lolos-ke-pemilu-2014 = Bang Yos Harap Ada 3 Parpol Lagi yang Lolos ke Pemilu 2014 = 
+
+ => http://news.detik.com/read/2013/02/07/161858/2164061/10/icw-minta-parpol-tempat-mencuci-uang-dibubarkan = ICW Minta Parpol Tempat Mencuci Uang Dibubarkan = 
+
+ => http://news.detik.com/read/2013/02/07/161934/2164062/10/di-tengah-isu-keretakan-pd-nazar-kembali-serang-anas =  Di Tengah Isu Keretakan PD, Nazar Kembali Serang Anas = 
+
+ => http://news.detik.com/read/2013/02/07/163716/2164079/10/ruu-ormas-kekhawatiran-ormas-intoleran-hingga-tempat-cuci-uang = RUU Ormas, Kekhawatiran Ormas Intoleran hingga Tempat Cuci Uang = 
+
+ => http://news.detik.com/read/2013/02/07/162729/2164078/10/sikapi-anjloknya-suara-versi-survei-partai-demokrat-di-jateng-pecah = Sikapi Anjloknya Suara Versi Survei, Partai Demokrat di Jateng 'Pecah' = 
+
+ => http://news.detik.com/read/2013/02/07/164118/2164089/10/ribuan-tanaman-ghat-chatinone-di-kawasan-puncak-dimusnahkan = Ribuan Tanaman Ghat 'Chatinone' di Kawasan Puncak Dimusnahkan = 
+
+ => http://news.detik.com/read/2013/02/07/165428/2164102/10/pencuri-motor-berjimat-roboh-ditembak-polisi-di-mampang = Pencuri Motor Berjimat Roboh Ditembak Polisi di Mampang = 
+
+ => http://news.detik.com/read/2013/02/07/164909/2164099/10/bang-yos-minta-nomor-urut-11-untuk-pkpi = Bang Yos Minta Nomor Urut 11 untuk PKPI = 
+
+ => http://news.detik.com/read/2013/02/07/170314/2164119/10/tifatul-imbau-tweeps-tak-umbar-foto-porno-di-twitter = Tifatul Imbau Tweeps Tak Umbar Foto Porno di Twitter = 
+
+ => http://news.detik.com/read/2013/02/07/170132/2164111/10/soal-permintaan-penyidik-polri-tetap-pendukung-setia-kpk = Soal Permintaan Penyidik, Polri Tetap Pendukung Setia KPK = 
+
+ => http://news.detik.com/read/2013/02/07/165859/2164108/10/jadi-korban-tabrak-lari-di-jl-sudirman-pemotor-tewas = Jadi Korban Tabrak Lari di Jl Sudirman, Pemotor Tewas = 
+
+ => http://news.detik.com/read/2013/02/07/170546/2164122/10/diego-michiel-kini-memeluk-agama-islam = Diego Michiel Kini Memeluk Agama Islam = 
+
+ => http://news.detik.com/read/2013/02/07/170552/2164120/10/ahok-kalau-pak-jokowi-capres-aku-diajak-gimana = Ahok: Kalau Pak Jokowi Capres, Aku Diajak Gimana? = 
+
+ => http://news.detik.com/read/2013/02/07/172047/2164139/10/kasus-sandal-jepit-dosen-ugm-akhirnya-ke-imigrasi-pakai-sepatu = Kasus Sandal Jepit, Dosen UGM Akhirnya ke Imigrasi Pakai Sepatu = 
+
+ => http://news.detik.com/read/2013/02/07/172100/2164140/10/polisi-tidak-ada-laporan-bule-topless-naik-motor-di-kuta = Polisi: Tidak Ada Laporan Bule Topless Naik Motor di Kuta = 
+
+ => http://news.detik.com/read/2013/02/07/171729/2164138/10/polisi-tangkap-pengelola-situs-prostitusi-online-di-bandung = Polisi Tangkap Pengelola Situs Prostitusi Online di Bandung = 
+
+ => http://news.detik.com/read/2013/02/07/170546/2164122/10/diego-michiels-kini-memeluk-agama-islam = Diego Michiels Kini Memeluk Agama Islam = 
+
+ => http://news.detik.com/read/2013/02/07/170552/2164120/10/ahok-kalau-pak-jokowi-capres-aku-diajak-gimana = Ahok: Kalau Pak Jokowi Capres, Aku Diajak Gimana? = 
+
+ => http://news.detik.com/read/2013/02/07/170314/2164119/10/tifatul-imbau-tweeps-tak-umbar-foto-porno-di-twitter = Tifatul Imbau Tweeps Tak Umbar Foto Porno di Twitter = 
+
+ => http://news.detik.com/read/2013/02/07/170132/2164111/10/soal-permintaan-penyidik-polri-tetap-pendukung-setia-kpk = Soal Permintaan Penyidik, Polri Tetap Pendukung Setia KPK = 
+
+ => http://news.detik.com/read/2013/02/07/165859/2164108/10/jadi-korban-tabrak-lari-di-jl-sudirman-pemotor-tewas = Jadi Korban Tabrak Lari di Jl Sudirman, Pemotor Tewas = 
+
+ => http://news.detik.com/read/2013/02/07/165428/2164102/10/pencuri-motor-berjimat-roboh-ditembak-polisi-di-mampang = Pencuri Motor Berjimat Roboh Ditembak Polisi di Mampang = 
+
+ => http://news.detik.com/read/2013/02/07/164909/2164099/10/bang-yos-minta-nomor-urut-11-untuk-pkpi = Bang Yos Minta Nomor Urut 11 untuk PKPI = 
+
+ => http://news.detik.com/read/2013/02/07/173047/2164156/10/dana-haram-diprediksi-masih-banyak-beredar-di-pemilu-2014 = Dana Haram Diprediksi Masih Banyak Beredar di Pemilu 2014 = 
+
+ => http://news.detik.com/read/2013/02/07/174451/2164165/10/ppi-utrecht-atasi-banjir-jakarta-waspadai-usul-baru = PPI Utrecht: Atasi Banjir Jakarta, Waspadai Usul Baru = 
+
+ => http://news.detik.com/read/2013/02/07/174847/2164168/10/pura-pura-sewa-kos-wanita-ini-curi-laptop-hp-dari-9-kamar =  Pura-pura Sewa Kos, Wanita Ini Curi Laptop & HP dari 9 Kamar = 
+
+ => http://news.detik.com/read/2013/02/07/175928/2164182/10/kpu-masih-gantung-nasib-pkpi-bang-yos = KPU Masih Gantung Nasib PKPI Bang Yos = 
+
+ => http://news.detik.com/read/2013/02/07/175418/2164172/10/bagian-dari-kebebasan-berpendapat-hakim-daming-tak-bisa-dipecat = Bagian dari Kebebasan Berpendapat, Hakim Daming Tak Bisa Dipecat = 
+
+ => http://news.detik.com/read/2013/02/07/175650/2164177/10/bnn-mulai-besok-penanam-ghat-chatinone-ditindak = BNN: Mulai Besok, Penanam Ghat 'Chatinone' Ditindak = 
+
+ => http://news.detik.com/read/2013/02/07/175643/2164179/10/berkas-kasus-rasyid-rajasa-sudah-di-pn-jaktim = Berkas Kasus Rasyid Rajasa Sudah di PN Jaktim = 
+
+ => http://news.detik.com/read/2013/02/07/180327/2164184/10/gardu-rusak-kawasan-kalibata-sudah-mati-lampu-9-jam =  Gardu Rusak, Kawasan Kalibata Sudah Mati Lampu 9 Jam = 
+
+ => http://news.detik.com/read/2013/02/07/183138/2164209/10/2-abg-tewas-terlindas-dumptruck-di-depan-pn-jakut = 2 ABG Tewas Terlindas Dumptruck di Depan PN Jakut = 
+
