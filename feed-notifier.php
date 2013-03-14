@@ -156,7 +156,7 @@ function deliver_mail_feed ($feed_url) {
     $headers .= 'To: '.$to.' <'.$to.'>' . "\r\n";
     $headers .= 'From: who <admin@example.com>' . "\r\n";
 
-    if(!mail($to, $subject, $get_feed, $headers)) echo "can send mail";  
+    if(!mail($to, $subject, $get_feed, $headers)) echo "can't send mail";  
 
 }
 
