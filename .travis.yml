@@ -1,16 +1,13 @@
 language: php
-dist: trusty
-sudo: required
 addons:
   sonarcloud:
-    organization: "hardyantz-github"
+    organization: hardyantz-github
     token:
-      secure: "dcf9d5fb7d1ac70ac97b8bc8428e17af4b3d5c2c"
+      secure: KhhxivxEIhYoP9DJPOVKrHWQ7F4gKP/sb+5jm2ihwz7YggnMw6M16CkgxhdI3ubSAJ5wPEbjHVVMpoPCxkTmsOzeXFSKdl54zw1i+Z+rVm/oAr74kcFB7gsUTYHKaRM/zrV7fWRutsElLe+4A7wNFTMQljj94m9lUkLOTERUr1Y89zBUar0cFzzegi+F4/5vecsEV5r9a4HQSmKJfi+uj9O+549SsFhZt9qj+dR8iI9EUE7WqXdA79+GekS1hT6emyieC+Bo2Viw9r09KGq6q3IyvpnzgQ5tP6Ciqa4YkH5FB3mhGKks71su0b6vI5T6/pjMhRBJ2yNoc2KsIGB8zk+EoBAxBK5x6svoKsbyLcQZ4DEpMrWlWeiP6HZzMdYJw08rfioMT2h2AeWsfVBf2PVV+IdeJfLX8gZIeYQkPk/9NSOATP/GIGnWvILnN5IS0Fc+au+DKHoSW5mFudbRk0Fdx0FhxO65++i50PsWEZ8dH6ZLaB0gqQWLm0JK+AiJGYjimUFN7QC7Ehjkml7pHoAkcqoRKKl5MrHnSaPJVPwGn7mdeT1wSw8rz7ebvuBWviiHrNoCGQ8qZXEoLUm5Eob1m0/aQ3vsoILYnDk3/tAvH1s6ytOxPnTphj9f25GgpsFrAmH24MUDMUFekxfE+2Xe8QaEUCijEyx2WZEtlpI=
 jdk:
-  - oraclejdk8
+- oraclejdk8
 script:
-  - sonar-scanner
-  - pear install pear/PHP_CodeSniffer
+- sonar-scanner
 cache:
   directories:
-    - '$HOME/.sonar/cache'
+  - "$HOME/.sonar/cache"
