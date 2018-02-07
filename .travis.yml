@@ -1,10 +1,13 @@
 language: php
-os: linux
+dist: trusty
+sudo: required
 addons:
   sonarcloud:
-    organization: "hardyantz-github" # the key of the org you chose at step #3
+    organization: "hardyantz-github"
     token:
-      secure: dcf9d5fb7d1ac70ac97b8bc8428e17af4b3d5c2c # encrypted value of your token
+      secure: "dcf9d5fb7d1ac70ac97b8bc8428e17af4b3d5c2c"
+jdk:
+  - oraclejdk8
 script:
   - sonar-scanner
 cache:
