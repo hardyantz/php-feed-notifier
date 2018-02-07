@@ -7,3 +7,6 @@ addons:
       secure: dcf9d5fb7d1ac70ac97b8bc8428e17af4b3d5c2c # encrypted value of your token
 script:
   - sonar-scanner
+cache:
+  directories:
+    - '$HOME/.sonar/cache'
