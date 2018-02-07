@@ -161,7 +161,7 @@ function deliver_mail_feed ($feed_url) {
 }
 
 function delMail($res){
-  if($res){ echo "ok"} else {echo "false"}
+  if($res){ echo "ok";} else {echo "false";}
 
     $f = file_get_contents($res)
 
