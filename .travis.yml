@@ -13,3 +13,8 @@ script:
 cache:
   directories:
   - "$HOME/.sonar/cache"
+notifications:
+  slack:
+    rooms:
+      - hardyantzcorp:VjbEAi5nWM1HXSHZwhhsyqQa#general
+      - hardyantzcorp:VjbEAi5nWM1HXSHZwhhsyqQa#random
