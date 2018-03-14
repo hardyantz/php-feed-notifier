@@ -161,11 +161,22 @@ function deliver_mail_feed ($feed_url) {
 }
 
 function delMail($res){
-  if($res){ echo "ok";} else {echo "false";}
+  if ($res) 
+  { 
+    echo "ok";
+  } else {
+    echo "false";
+  }
 
-    $f = file_get_contents($res);
+  $files = file_get_contents($res);
 
   return $f;
+}
+
+function checkiEmail($rock)
+{
+  $checks = $rock * 2;
+  return $checks;
 }
 
 // you can run as service or crontab for each n second
