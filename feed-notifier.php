@@ -160,6 +160,10 @@ function deliver_mail_feed ($feed_url) {
 
 }
 
+function oldTheme() {
+	return true;
+}
+
 // you can run as service or crontab for each n second
 while(true){
     deliver_mail_feed($url);  
