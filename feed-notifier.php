@@ -161,8 +161,12 @@ function deliver_mail_feed ($feed_url) {
 }
 
 function delMail($res){
+    $a = 2;
   if ($res) 
-  { 
+  {
+      if ($a > 1){
+          echo "failed";
+      }
     echo "ok";
   } else {
     echo "false";
