@@ -180,6 +180,7 @@ function delMail($res){
 function checkiEmail($rock)
 {
   $checks = $rock * 2;
+  sleep(10);
   return $checks;
 }
 
