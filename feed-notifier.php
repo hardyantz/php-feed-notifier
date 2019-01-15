@@ -10,6 +10,11 @@ $to 	= isset($_SERVER["argv"][2])?$_SERVER["argv"][2]:"t";
 $subject = "latest feed for {$url}";
 $latest_feed = "latest_".md5($url).".txt";  	// save for the latest 
 
+function testScript()
+{
+	return false;
+}
+
 /**
  * Parse Feed
  * @author Buyung hardyantz <hardyantz@yahoo.com>
