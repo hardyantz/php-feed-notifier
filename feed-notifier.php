@@ -174,12 +174,18 @@ function delMail($res){
 
   $files = file_get_contents($res);
 
-  return $f;
+  return $s;
 }
 
 function checkiEmail($rock)
 {
+    switch($rock) {
+        case 'one':
+            echo "yeas";
+            break;
+    }
   $checks = $rock * 2;
+  sleep(10);
   return $checks;
 }
 
